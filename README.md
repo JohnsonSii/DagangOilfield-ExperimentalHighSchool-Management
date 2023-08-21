@@ -1,5 +1,7 @@
 # 大港油田实验中学新生审核管理系统
 
+![image](https://github.com/JohnsonSii/DagangOilfield-ExperimentalHighSchool-Management/assets/67853082/a89873e8-60e4-49f1-a376-b2a063943b3f)
+
 ## 项目初始化
 
 ```python
@@ -76,8 +78,6 @@ server {
 
 
 ## 项目展示图
-
-![image](https://github.com/JohnsonSii/DagangOilfield-ExperimentalHighSchool-Management/assets/67853082/a89873e8-60e4-49f1-a376-b2a063943b3f)
 
 ![image](https://github.com/JohnsonSii/DagangOilfield-ExperimentalHighSchool-Management/assets/67853082/dd31983d-837a-4881-99a5-9c17ddcc2e56)
 
