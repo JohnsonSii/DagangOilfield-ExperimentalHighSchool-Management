@@ -28,7 +28,7 @@ python manage.py runsslserver --addrport 8080 --certificate .\crt\your-certifica
 
 ### 推荐使用 HBuilder 发行
 
-![image-20230821135023206](C:\Users\Developer\AppData\Roaming\Typora\typora-user-images\image-20230821135023206.png)
+![image](https://github.com/JohnsonSii/DagangOilfield-ExperimentalHighSchool-Management/assets/67853082/d1b095fa-2fcf-4e9b-a8b4-4d4f323c04a4)
 
 ### NPM 打包
 
@@ -77,9 +77,8 @@ server {
 
 ## 项目展示图
 
-![image-20230821134135284](C:\Users\Developer\AppData\Roaming\Typora\typora-user-images\image-20230821134135284.png)
+![image](https://github.com/JohnsonSii/DagangOilfield-ExperimentalHighSchool-Management/assets/67853082/60eae2a2-de1f-41b5-b6da-d18dcfd5aed7)
 
-![image-20230821134655845](C:\Users\Developer\AppData\Roaming\Typora\typora-user-images\image-20230821134655845.png)
+![image](https://github.com/JohnsonSii/DagangOilfield-ExperimentalHighSchool-Management/assets/67853082/dd31983d-837a-4881-99a5-9c17ddcc2e56)
 
-![Untitled-1](C:\Users\Developer\Desktop\Untitled-1.jpg)
-
+![image](https://github.com/JohnsonSii/DagangOilfield-ExperimentalHighSchool-Management/assets/67853082/3741dfca-955c-4ace-bf81-908d2ee6ff9e)
