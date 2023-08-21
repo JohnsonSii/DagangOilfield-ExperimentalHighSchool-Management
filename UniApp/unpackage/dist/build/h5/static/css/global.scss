@@ -1,0 +1,234 @@
+.center {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+.flexr {
+  display: flex;
+  flex-direction: row;
+}
+
+.flexc {
+  display: flex;
+  flex-direction: column;
+}
+
+.f1 {
+  flex: 1
+}
+
+.fas {
+  justify-content: flex-start;
+}
+
+.fae {
+  justify-content: flex-end;
+}
+
+.faa {
+  justify-content: space-around;
+}
+
+.fab {
+  justify-content: space-between;
+}
+
+.fac {
+  justify-content: center;
+}
+
+.sas {
+  align-items: flex-start;
+}
+
+.sae {
+  align-items: flex-end;
+}
+
+.saa {
+  align-items: space-around;
+}
+
+.sab {
+  align-items: space-between;
+}
+
+.sac {
+  align-items: center;
+}
+
+.rowl {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.rowr {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-end;
+}
+
+.coll {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+
+.colc {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.colr {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-end;
+}
+
+.dev {
+  background-color: rgba(100, 100, 200, 0.35);
+}
+
+.midshadow {
+  box-shadow: 3rpx 3rpx 6rpx 2rpx rgba(0, 0, 0, 0.25);
+}
+
+.smallshadow {
+  box-shadow: 2rpx 2rpx 4rpx 1rpx rgba(0, 0, 0, 0.25);
+}
+
+.whitefont {
+  color: white;
+}
+
+.grayfont {
+  color: gray;
+}
+
+.boom {
+  width: 100%;
+  height: 100%;
+}
+
+.midradius {
+  border-radius: 20rpx;
+}
+
+.bigradius {
+  border-radius: 35rpx;
+}
+
+.mt {
+  margin-top: 20rpx;
+}
+
+.mt-1 {
+  margin-top: 10rpx;
+}
+
+.mt1 {
+  margin-top: 30rpx;
+}
+
+.mt2 {
+  margin-top: 40rpx;
+}
+
+.mb {
+  margin-bottom: 20rpx;
+}
+
+.mb-1 {
+  margin-bottom: 10rpx;
+}
+
+.mb1 {
+  margin-bottom: 30rpx;
+}
+
+.mb2 {
+  margin-bottom: 40rpx;
+}
+
+.ml {
+  margin-left: 20rpx;
+}
+
+.ml-1 {
+  margin-left: 10rpx;
+}
+
+.ml1 {
+  margin-left: 30rpx;
+}
+
+.ml2 {
+  margin-left: 40rpx;
+}
+
+.mr {
+  margin-right: 20rpx;
+}
+
+.mr-1 {
+  margin-right: 10rpx;
+}
+
+.mr1 {
+  margin-right: 30rpx;
+}
+
+.mr2 {
+  margin-right: 40rpx;
+}
+
+.title {
+  font-size: 50rpx;
+}
+
+.subtitle {
+  font-size: 38rpx;
+}
+
+.imptext {
+  color: rgba(0, 95, 255, 0.9);
+  font-weight: 600;
+}
+
+.text {
+  color: gray;
+}
+
+.smallfont {
+  font-size: 20rpx;
+}
+
+.midfont {
+  font-size: 30rpx;
+}
+
+.bigfont {
+  font-size: 40rpx;
+}
+
+.hugefont {
+  font-size: 50rpx;
+}
+
+.automargin {
+  width: 50%;
+  margin: 0 auto;
+}
+
+.warntext {
+  color: #e6401f;
+}
